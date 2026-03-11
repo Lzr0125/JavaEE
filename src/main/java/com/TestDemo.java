@@ -2,6 +2,6 @@ package com;
 
 public class TestDemo {
     public static void main(String[] args) {
-        System.out.println("这是本地的初始版本A");
+        System.out.println("这是远程仓库修改的版本B");
     }
 }
